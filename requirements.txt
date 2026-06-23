@@ -1,4 +1,4 @@
-altgraph @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+altgraph
 annotated-types==0.7.0
 attrs==26.1.0
 beautifulsoup4==4.15.0
